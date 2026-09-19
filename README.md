@@ -15,10 +15,6 @@ $ stack --en-cours
 Kubernetes · Terraform · Ansible · CI/CD
 ```
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Aurelienschmi/Aurelienschmi/main/github-metrics.svg" alt="Calendrier de contributions" />
-</div>
-
 ---
 
 ## Ce que je livre
